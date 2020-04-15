@@ -9,6 +9,7 @@ print (2 * 9)
 print ("hola hola")
 
 #desde la línea 5 se había borrado y no sé por qué ._. lo que sigue si va a la otra rama
-print ("tarola")
+print (2 / 9)
 
 #desde la linea 10 no estaba en la rama master, pero ya se unió, o sea que se hizo merge, ahora hay que subir esto
+#para un nuevo pull request cambiaré el "tarola" por una suma
